@@ -1,0 +1,2 @@
+// lists only documents in collection school
+db.school.find();
