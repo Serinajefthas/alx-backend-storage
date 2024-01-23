@@ -1,4 +1,4 @@
 // deletes all documents with filter
-db.school.delete(
+db.school.deleteMany(
    {"name": "Holberton School"},
 )
